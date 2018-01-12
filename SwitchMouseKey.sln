@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2020
+VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchMouseKey", "SwitchMouseKey\SwitchMouseKey.csproj", "{359AB67D-E9FB-409F-9298-9DE09C122109}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchMouseKey", "SwitchMouseKey\SwitchMouseKey.csproj", "{DD694830-A34A-4C59-A517-B662825E4589}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{359AB67D-E9FB-409F-9298-9DE09C122109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{359AB67D-E9FB-409F-9298-9DE09C122109}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{359AB67D-E9FB-409F-9298-9DE09C122109}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{359AB67D-E9FB-409F-9298-9DE09C122109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD694830-A34A-4C59-A517-B662825E4589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD694830-A34A-4C59-A517-B662825E4589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD694830-A34A-4C59-A517-B662825E4589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD694830-A34A-4C59-A517-B662825E4589}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {543DC9DA-4E0D-4F43-9D86-94F097433170}
+		SolutionGuid = {63410BF5-C46E-4379-851E-2D51C60018AC}
 	EndGlobalSection
 EndGlobal
